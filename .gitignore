@@ -1,0 +1,17 @@
+# ROS2 build artifacts
+**/build/
+**/install/
+**/log/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac / Linux / System
+.DS_Store
+*.swp
