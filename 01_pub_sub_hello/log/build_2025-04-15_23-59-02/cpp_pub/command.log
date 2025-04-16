@@ -1,6 +1,0 @@
-Invoking command in '/home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jaeik/ros2_ws/src/cpp_pub -DCMAKE_INSTALL_PREFIX=/home/jaeik/ros2_ws/src/cpp_pub/install/cpp_pub
-Invoked command in '/home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jaeik/ros2_ws/src/cpp_pub -DCMAKE_INSTALL_PREFIX=/home/jaeik/ros2_ws/src/cpp_pub/install/cpp_pub
-Invoking command in '/home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub -- -j8 -l8
-Invoked command in '/home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub -- -j8 -l8
-Invoking command in '/home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub
-Invoked command in '/home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jaeik/ros2_ws/src/cpp_pub/build/cpp_pub
